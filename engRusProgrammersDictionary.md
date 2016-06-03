@@ -8,3 +8,6 @@ gluing programs together: соединение программ вместе
 
 
 lazy evaluation:  ленивые (отложенные) вычисления
+
+
+a tolerance (eps) - точность (машинный эпсилон)
